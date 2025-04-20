@@ -1,0 +1,898 @@
+Product_Name,Capacity,Category,Star_Ratings,Price,Discount,Rating
+Whirlpool,270 L,Triple Door,4 Star,28490.0,25.0,4.3
+LG,343 L,Double Door,3 Star,41990.0,23.0,4.3
+Whirlpool,235 L,Triple Door,4 Star,25990.0,29.0,4.5
+LG,242 L,Double Door,3 Star,69990.0,29.0,4.4
+Haier,596 L,Side by Side,3 Star,21990.0,42.0,4.5
+Whirlpool,236 L,Single Door,5 Star,25990.0,24.0,4.3
+Haier,602 L,Side by Side,3 Star,61990.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,25749.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,32990.0,40.0,4.3
+Voltas,472 L,Side by Side,3 Star,49990.0,30.0,4.2
+Whirlpool,235 L,Double Door,2 Star,23777.0,26.0,4.1
+LG,272 L,Double Door,3 Star,29990.0,25.0,4.1
+Whirlpool,235 L,Double Door,3 Star,25490.0,21.0,4.2
+Godrej,272 L,Double Door,3 Star,27490.0,29.0,4.4
+LG,264 L,Double Door,2 Star,28990.0,28.0,4.3
+CANDY,328 L,Double Door,3 Star,26990.0,29.0,4.3
+Godrej,472 L,Double Door,2 Star,50990.0,42.0,4.3
+Godrej,436 L,Double Door,2 Star,34990.0,24.0,4.4
+Haier,268 L,Double Door,2 Star,42490.0,32.0,4.3
+LG,398 L,Double Door,3 Star,24990.0,37.0,4.1
+Voltas,563 L,Side by Side,3 Star,26490.0,28.0,4.4
+LG,240 L,Double Door,3 Star,45990.0,31.0,4.3
+Haier,325 L,Double Door,3 Star,53990.0,26.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,32990.0,25.0,4.1
+Whirlpool,270 L,Triple Door,4 Star,32990.0,25.0,4.3
+LG,343 L,Double Door,3 Star,59990.0,29.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,25190.0,23.0,4.3
+LG,242 L,Double Door,3 Star,28990.0,42.0,4.4
+Haier,596 L,Side by Side,3 Star,23990.0,24.0,4.5
+Whirlpool,236 L,Single Door,5 Star,35490.0,29.0,4.3
+Haier,602 L,Side by Side,3 Star,39990.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,61990.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,24990.0,25.0,4.1
+Voltas,472 L,Side by Side,3 Star,27270.0,40.0,4.3
+Whirlpool,235 L,Double Door,2 Star,26190.0,29.0,4.3
+LG,272 L,Double Door,3 Star,43990.0,30.0,4.3
+Whirlpool,235 L,Double Door,3 Star,29999.0,26.0,4.2
+Godrej,272 L,Double Door,3 Star,63990.0,21.0,4.1
+LG,264 L,Double Door,2 Star,24790.0,28.0,4.2
+CANDY,328 L,Double Door,3 Star,24490.0,29.0,4.4
+Godrej,472 L,Double Door,2 Star,24990.0,25.0,4.3
+Godrej,436 L,Double Door,2 Star,28050.0,31.0,4.1
+Haier,268 L,Double Door,2 Star,24490.0,37.0,4.1
+LG,398 L,Double Door,3 Star,26590.0,32.0,4.3
+Voltas,563 L,Side by Side,3 Star,27490.0,28.0,4.4
+LG,240 L,Double Door,3 Star,44990.0,24.0,4.3
+Haier,325 L,Double Door,3 Star,74990.0,42.0,4.4
+Whirlpool,300 L,Triple Door,4 Star,59990.0,26.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,93990.0,25.0,4.3
+LG,343 L,Double Door,3 Star,22490.0,29.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,32990.0,23.0,4.3
+Haier,596 L,Side by Side,3 Star,34990.0,29.0,4.4
+Whirlpool,236 L,Single Door,5 Star,23490.0,42.0,4.5
+LG,242 L,Double Door,3 Star,26590.0,24.0,4.3
+Haier,602 L,Side by Side,3 Star,27980.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,47990.0,19.0,4.3
+Whirlpool,308 L,Double Door,3 Star,49990.0,25.0,4.1
+Voltas,472 L,Side by Side,3 Star,54490.0,40.0,4.3
+Whirlpool,235 L,Double Door,2 Star,26950.0,25.0,4.3
+LG,272 L,Double Door,3 Star,29990.0,29.0,4.2
+Whirlpool,235 L,Double Door,3 Star,29990.0,30.0,4.1
+Godrej,272 L,Double Door,3 Star,32050.0,26.0,4.2
+CANDY,328 L,Double Door,3 Star,33290.0,21.0,4.4
+LG,264 L,Double Door,2 Star,24550.0,29.0,4.3
+Godrej,472 L,Double Door,2 Star,25990.0,28.0,4.1
+Haier,325 L,Double Door,3 Star,24890.0,25.0,4.1
+Godrej,436 L,Double Door,2 Star,36890.0,37.0,4.3
+Haier,268 L,Double Door,2 Star,50890.0,32.0,4.4
+LG,240 L,Double Door,3 Star,72990.0,24.0,4.3
+LG,398 L,Double Door,3 Star,25990.0,42.0,4.4
+Voltas,563 L,Side by Side,3 Star,24990.0,28.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,30740.0,31.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,24990.0,25.0,4.3
+Whirlpool,235 L,Triple Door,4 Star,22990.0,23.0,4.5
+LG,343 L,Double Door,3 Star,27450.0,29.0,4.3
+LG,242 L,Double Door,3 Star,30740.0,29.0,4.4
+Haier,596 L,Side by Side,3 Star,30990.0,42.0,4.5
+Whirlpool,236 L,Single Door,5 Star,24000.0,24.0,4.3
+Haier,602 L,Side by Side,3 Star,26490.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,26790.0,27.0,4.3
+Voltas,472 L,Side by Side,3 Star,39990.0,40.0,4.1
+LG,272 L,Double Door,3 Star,27990.0,30.0,4.3
+Whirlpool,235 L,Double Door,3 Star,30990.0,26.0,4.3
+Whirlpool,308 L,Double Door,3 Star,24990.0,25.0,4.2
+Godrej,272 L,Double Door,3 Star,37990.0,21.0,4.1
+LG,264 L,Double Door,2 Star,31690.0,29.0,4.2
+CANDY,328 L,Double Door,3 Star,23799.0,28.0,4.4
+Whirlpool,235 L,Double Door,2 Star,32990.0,29.0,4.3
+Voltas,563 L,Side by Side,3 Star,29999.0,42.0,4.1
+LG,398 L,Double Door,3 Star,38990.0,24.0,4.1
+Haier,268 L,Double Door,2 Star,32990.0,32.0,4.3
+Godrej,436 L,Double Door,2 Star,25240.0,37.0,4.4
+LG,240 L,Double Door,3 Star,24990.0,28.0,4.3
+Haier,325 L,Double Door,3 Star,23959.0,31.0,4.4
+Whirlpool,300 L,Triple Door,4 Star,33819.0,26.0,4.3
+Godrej,472 L,Double Door,2 Star,23999.0,25.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,27990.0,25.0,4.3
+LG,343 L,Double Door,3 Star,37490.0,29.0,4.3
+Whirlpool,235 L,Triple Door,4 Star,28480.0,23.0,4.5
+LG,242 L,Double Door,3 Star,26517.0,29.0,4.4
+Haier,596 L,Side by Side,3 Star,60990.0,42.0,4.5
+Whirlpool,236 L,Single Door,5 Star,26999.0,24.0,4.3
+Haier,602 L,Side by Side,3 Star,33990.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,49990.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,28836.0,25.0,4.3
+Voltas,472 L,Side by Side,3 Star,54990.0,40.0,4.2
+Whirlpool,235 L,Double Door,2 Star,22570.0,29.0,4.1
+LG,272 L,Double Door,3 Star,24990.0,30.0,4.1
+Whirlpool,235 L,Double Door,3 Star,37990.0,26.0,4.2
+Godrej,272 L,Double Door,3 Star,135999.0,21.0,4.4
+LG,264 L,Double Door,2 Star,84990.0,29.0,4.3
+CANDY,328 L,Double Door,3 Star,37000.0,28.0,4.3
+Godrej,472 L,Double Door,2 Star,26290.0,25.0,4.3
+Godrej,436 L,Double Door,2 Star,33990.0,37.0,4.4
+Haier,268 L,Double Door,2 Star,27599.0,32.0,4.3
+LG,398 L,Double Door,3 Star,24990.0,24.0,4.1
+Voltas,563 L,Side by Side,3 Star,49999.0,42.0,4.4
+LG,240 L,Double Door,3 Star,27999.0,28.0,4.3
+Haier,325 L,Double Door,3 Star,24399.0,31.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,25990.0,26.0,4.1
+Whirlpool,270 L,Triple Door,4 Star,50990.0,25.0,4.3
+LG,343 L,Double Door,3 Star,50890.0,29.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,49999.0,23.0,4.3
+LG,242 L,Double Door,3 Star,49990.0,42.0,4.5
+Haier,596 L,Side by Side,3 Star,49990.0,24.0,4.3
+Whirlpool,236 L,Single Door,5 Star,49990.0,29.0,4.4
+Haier,602 L,Side by Side,3 Star,49990.0,43.0,4.5
+Voltas,472 L,Side by Side,3 Star,49990.0,40.0,4.3
+Whirlpool,235 L,Double Door,2 Star,49990.0,29.0,4.3
+LG,272 L,Double Door,3 Star,49990.0,30.0,4.2
+Whirlpool,235 L,Double Door,3 Star,49990.0,26.0,4.1
+Godrej,272 L,Double Door,3 Star,49990.0,21.0,4.2
+LG,264 L,Double Door,2 Star,49950.0,28.0,4.3
+CANDY,328 L,Double Door,3 Star,48990.0,29.0,4.4
+Godrej,472 L,Double Door,2 Star,48490.0,25.0,4.1
+Godrej,436 L,Double Door,2 Star,47990.0,31.0,4.3
+Haier,268 L,Double Door,2 Star,47970.0,37.0,4.1
+LG,398 L,Double Door,3 Star,47890.0,32.0,4.3
+Voltas,563 L,Side by Side,3 Star,47319.0,28.0,4.4
+LG,240 L,Double Door,3 Star,46990.0,24.0,4.4
+Haier,325 L,Double Door,3 Star,46225.0,42.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,45999.0,26.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,45999.0,25.0,4.3
+Whirlpool,235 L,Triple Door,4 Star,45999.0,29.0,4.5
+LG,343 L,Double Door,3 Star,45999.0,23.0,4.3
+LG,242 L,Double Door,3 Star,45990.0,29.0,4.4
+Haier,596 L,Side by Side,3 Star,45990.0,42.0,4.5
+Whirlpool,236 L,Single Door,5 Star,45990.0,24.0,4.3
+Haier,602 L,Side by Side,3 Star,45990.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,45680.0,19.0,4.3
+Voltas,472 L,Side by Side,3 Star,45590.0,25.0,4.1
+LG,272 L,Double Door,3 Star,45590.0,40.0,4.3
+Whirlpool,235 L,Double Door,3 Star,45490.0,25.0,4.3
+Whirlpool,308 L,Double Door,3 Star,45490.0,29.0,4.2
+Godrej,272 L,Double Door,3 Star,45490.0,30.0,4.1
+LG,264 L,Double Door,2 Star,45090.0,26.0,4.2
+CANDY,328 L,Double Door,3 Star,44990.0,21.0,4.4
+Whirlpool,235 L,Double Door,2 Star,44886.0,29.0,4.3
+Voltas,563 L,Side by Side,3 Star,43999.0,28.0,4.1
+LG,398 L,Double Door,3 Star,43990.0,25.0,4.1
+Haier,268 L,Double Door,2 Star,43990.0,37.0,4.3
+Godrej,436 L,Double Door,2 Star,43990.0,32.0,4.4
+LG,240 L,Double Door,3 Star,43990.0,24.0,4.3
+Haier,325 L,Double Door,3 Star,43990.0,42.0,4.4
+Whirlpool,300 L,Triple Door,4 Star,43890.0,28.0,4.3
+Godrej,472 L,Double Door,2 Star,43800.0,31.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,43600.0,25.0,4.3
+LG,343 L,Double Door,3 Star,42990.0,29.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,42490.0,23.0,4.3
+LG,242 L,Double Door,3 Star,42390.0,29.0,4.5
+Haier,596 L,Side by Side,3 Star,42170.0,42.0,4.3
+Whirlpool,236 L,Single Door,5 Star,41990.0,24.0,4.4
+Haier,602 L,Side by Side,3 Star,41870.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,41390.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,41199.0,25.0,4.1
+Voltas,472 L,Side by Side,3 Star,40999.0,40.0,4.3
+Whirlpool,235 L,Double Door,2 Star,40888.0,29.0,4.3
+LG,272 L,Double Door,3 Star,40790.0,30.0,4.2
+Whirlpool,235 L,Double Door,3 Star,40590.0,26.0,4.1
+Godrej,272 L,Double Door,3 Star,40590.0,21.0,4.2
+LG,264 L,Double Door,2 Star,40590.0,29.0,4.3
+CANDY,328 L,Double Door,3 Star,40000.0,28.0,4.4
+Godrej,472 L,Double Door,2 Star,39990.0,25.0,4.1
+Godrej,436 L,Double Door,2 Star,39990.0,37.0,4.3
+Haier,268 L,Double Door,2 Star,39990.0,32.0,4.1
+LG,398 L,Double Door,3 Star,39989.0,24.0,4.3
+Voltas,563 L,Side by Side,3 Star,39744.0,42.0,4.4
+LG,240 L,Double Door,3 Star,39559.0,28.0,4.4
+Haier,325 L,Double Door,3 Star,39290.0,31.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,38990.0,26.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,38990.0,25.0,4.3
+LG,343 L,Double Door,3 Star,38790.0,29.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,38490.0,23.0,4.3
+LG,242 L,Double Door,3 Star,38290.0,42.0,4.4
+Haier,596 L,Side by Side,3 Star,38290.0,24.0,4.5
+Haier,602 L,Side by Side,3 Star,37999.0,29.0,4.3
+Whirlpool,240 L,Triple Door,4 Star,39105.0,43.0,4.5
+Whirlpool,308 L,Double Door,3 Star,37990.0,27.0,4.3
+Voltas,472 L,Side by Side,3 Star,37990.0,25.0,4.1
+Whirlpool,235 L,Double Door,2 Star,37800.0,40.0,4.3
+LG,272 L,Double Door,3 Star,37650.0,29.0,4.3
+Whirlpool,235 L,Double Door,3 Star,37517.0,30.0,4.2
+Godrej,272 L,Double Door,3 Star,37490.0,26.0,4.1
+LG,264 L,Double Door,2 Star,37490.0,21.0,4.2
+CANDY,328 L,Double Door,3 Star,37490.0,28.0,4.4
+Godrej,472 L,Double Door,2 Star,37290.0,29.0,4.3
+Godrej,436 L,Double Door,2 Star,37000.0,25.0,4.1
+Haier,268 L,Double Door,2 Star,36990.0,31.0,4.1
+LG,398 L,Double Door,3 Star,36990.0,37.0,4.3
+Voltas,563 L,Side by Side,3 Star,36890.0,32.0,4.4
+LG,240 L,Double Door,3 Star,36590.0,28.0,4.3
+Haier,325 L,Double Door,3 Star,36390.0,24.0,4.4
+Whirlpool,300 L,Triple Door,4 Star,36240.0,42.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,35999.0,26.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,35999.0,25.0,4.3
+LG,343 L,Double Door,3 Star,35990.0,29.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,35990.0,23.0,4.3
+Haier,596 L,Side by Side,3 Star,35790.0,42.0,4.5
+Whirlpool,236 L,Single Door,5 Star,35590.0,24.0,4.3
+LG,242 L,Double Door,3 Star,35490.0,29.0,4.4
+Haier,602 L,Side by Side,3 Star,35390.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,35337.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,35190.0,25.0,4.1
+Voltas,472 L,Side by Side,3 Star,35000.0,40.0,4.3
+Whirlpool,235 L,Double Door,2 Star,34999.0,29.0,4.3
+LG,272 L,Double Door,3 Star,34990.0,30.0,4.2
+Whirlpool,235 L,Double Door,3 Star,34990.0,26.0,4.1
+Godrej,272 L,Double Door,3 Star,34990.0,21.0,4.2
+CANDY,328 L,Double Door,3 Star,34990.0,28.0,4.3
+LG,264 L,Double Door,2 Star,34900.0,29.0,4.4
+Godrej,472 L,Double Door,2 Star,34999.0,25.0,4.1
+Haier,325 L,Double Door,3 Star,34590.0,31.0,4.3
+Godrej,436 L,Double Door,2 Star,34489.0,37.0,4.1
+Haier,268 L,Double Door,2 Star,34062.0,32.0,4.3
+LG,240 L,Double Door,3 Star,39910.0,28.0,4.4
+LG,398 L,Double Door,3 Star,38999.0,24.0,4.4
+Voltas,563 L,Side by Side,3 Star,34489.0,42.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,34062.0,26.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,33999.0,25.0,4.3
+LG,343 L,Double Door,3 Star,33990.0,29.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,33990.0,23.0,4.3
+Haier,596 L,Side by Side,3 Star,33990.0,29.0,4.4
+Whirlpool,236 L,Single Door,5 Star,33819.0,42.0,4.5
+LG,242 L,Double Door,3 Star,33590.0,24.0,4.3
+Haier,602 L,Side by Side,3 Star,33500.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,33490.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,33397.0,25.0,4.1
+Voltas,472 L,Side by Side,3 Star,33290.0,40.0,4.3
+Whirlpool,235 L,Double Door,2 Star,33290.0,29.0,4.3
+LG,272 L,Double Door,3 Star,33257.0,30.0,4.2
+Whirlpool,235 L,Double Door,3 Star,32990.0,26.0,4.1
+Godrej,272 L,Double Door,3 Star,32990.0,21.0,4.2
+CANDY,328 L,Double Door,3 Star,32990.0,29.0,4.4
+LG,264 L,Double Door,2 Star,32990.0,28.0,4.3
+Godrej,472 L,Double Door,2 Star,32990.0,25.0,4.1
+Haier,325 L,Double Door,3 Star,32990.0,37.0,4.1
+Godrej,436 L,Double Door,2 Star,32990.0,32.0,4.3
+Haier,268 L,Double Door,2 Star,32818.0,24.0,4.4
+LG,240 L,Double Door,3 Star,32710.0,42.0,4.3
+LG,398 L,Double Door,3 Star,32590.0,28.0,4.4
+Voltas,563 L,Side by Side,3 Star,32190.0,31.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,32100.0,26.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,32050.0,25.0,4.3
+LG,343 L,Double Door,3 Star,31999.0,23.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,31990.0,29.0,4.3
+LG,242 L,Double Door,3 Star,31990.0,29.0,4.5
+Haier,596 L,Side by Side,3 Star,31790.0,42.0,4.3
+Whirlpool,236 L,Single Door,5 Star,31790.0,24.0,4.4
+Haier,602 L,Side by Side,3 Star,31749.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,31733.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,31690.0,40.0,4.1
+Voltas,472 L,Side by Side,3 Star,31690.0,30.0,4.3
+Whirlpool,235 L,Double Door,2 Star,31600.0,26.0,4.3
+LG,272 L,Double Door,3 Star,31490.0,25.0,4.2
+Whirlpool,235 L,Double Door,3 Star,31090.0,21.0,4.1
+Godrej,272 L,Double Door,3 Star,30999.0,29.0,4.2
+LG,264 L,Double Door,2 Star,30999.0,28.0,4.3
+CANDY,328 L,Double Door,3 Star,30999.0,29.0,4.4
+Godrej,472 L,Double Door,2 Star,30999.0,42.0,4.1
+Godrej,436 L,Double Door,2 Star,30990.0,24.0,4.3
+Haier,268 L,Double Door,2 Star,30990.0,32.0,4.1
+LG,398 L,Double Door,3 Star,30990.0,37.0,4.3
+Voltas,563 L,Side by Side,3 Star,30990.0,28.0,4.4
+LG,240 L,Double Door,3 Star,30790.0,31.0,4.4
+Haier,325 L,Double Door,3 Star,30740.0,26.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,30590.0,25.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,30521.0,25.0,4.3
+LG,343 L,Double Door,3 Star,30519.0,29.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,30390.0,23.0,4.3
+LG,242 L,Double Door,3 Star,30390.0,29.0,4.5
+Haier,596 L,Side by Side,3 Star,30100.0,42.0,4.3
+Whirlpool,236 L,Single Door,5 Star,30100.0,24.0,4.4
+Haier,602 L,Side by Side,3 Star,29999.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,29999.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,29999.0,25.0,4.1
+Voltas,472 L,Side by Side,3 Star,29999.0,40.0,4.3
+Whirlpool,235 L,Double Door,2 Star,29999.0,29.0,4.3
+LG,272 L,Double Door,3 Star,29999.0,30.0,4.2
+Whirlpool,235 L,Double Door,3 Star,29999.0,26.0,4.1
+Godrej,272 L,Double Door,3 Star,29990.0,21.0,4.2
+LG,264 L,Double Door,2 Star,29990.0,29.0,4.3
+CANDY,328 L,Double Door,3 Star,29990.0,28.0,4.4
+Godrej,472 L,Double Door,2 Star,29990.0,25.0,4.1
+Godrej,436 L,Double Door,2 Star,29969.0,37.0,4.3
+Haier,268 L,Double Door,2 Star,29890.0,32.0,4.1
+LG,398 L,Double Door,3 Star,29490.0,24.0,4.3
+Voltas,563 L,Side by Side,3 Star,29490.0,42.0,4.4
+LG,240 L,Double Door,3 Star,29490.0,28.0,4.4
+Haier,325 L,Double Door,3 Star,29490.0,31.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,29490.0,26.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,29490.0,25.0,4.3
+LG,343 L,Double Door,3 Star,29490.0,29.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,29490.0,23.0,4.3
+LG,242 L,Double Door,3 Star,29399.0,42.0,4.5
+Haier,596 L,Side by Side,3 Star,28999.0,24.0,4.3
+Whirlpool,236 L,Single Door,5 Star,28999.0,29.0,4.4
+Haier,602 L,Side by Side,3 Star,28990.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,28990.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,28990.0,25.0,4.1
+Voltas,472 L,Side by Side,3 Star,28989.0,40.0,4.3
+Whirlpool,235 L,Double Door,2 Star,28836.0,29.0,4.3
+LG,272 L,Double Door,3 Star,28699.0,30.0,4.2
+Whirlpool,235 L,Double Door,3 Star,28699.0,26.0,4.1
+Godrej,272 L,Double Door,3 Star,28590.0,21.0,4.2
+LG,264 L,Double Door,2 Star,28550.0,28.0,4.3
+CANDY,328 L,Double Door,3 Star,28550.0,29.0,4.4
+Godrej,472 L,Double Door,2 Star,28490.0,25.0,4.1
+Godrej,436 L,Double Door,2 Star,28490.0,31.0,4.3
+Haier,268 L,Double Door,2 Star,28490.0,37.0,4.1
+LG,398 L,Double Door,3 Star,28480.0,32.0,4.3
+Voltas,563 L,Side by Side,3 Star,28390.0,28.0,4.4
+LG,240 L,Double Door,3 Star,27999.0,24.0,4.4
+Haier,325 L,Double Door,3 Star,27990.0,42.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,27990.0,26.0,4.3
+LG,343 L,Double Door,3 Star,27990.0,29.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,27990.0,23.0,4.3
+LG,242 L,Double Door,3 Star,27990.0,29.0,4.5
+Haier,596 L,Side by Side,3 Star,27990.0,42.0,4.3
+Whirlpool,236 L,Single Door,5 Star,27890.0,24.0,4.4
+Haier,602 L,Side by Side,3 Star,27790.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,27751.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,27699.0,25.0,4.1
+Voltas,472 L,Side by Side,3 Star,27980.0,40.0,4.3
+Whirlpool,235 L,Double Door,2 Star,27599.0,29.0,4.3
+LG,272 L,Double Door,3 Star,27590.0,30.0,4.2
+Whirlpool,235 L,Double Door,3 Star,27590.0,26.0,4.1
+Godrej,272 L,Double Door,3 Star,27590.0,21.0,4.2
+LG,264 L,Double Door,2 Star,27499.0,29.0,4.3
+CANDY,328 L,Double Door,3 Star,27490.0,28.0,4.4
+Godrej,472 L,Double Door,2 Star,27490.0,25.0,4.1
+Godrej,436 L,Double Door,2 Star,27490.0,37.0,4.3
+Haier,268 L,Double Door,2 Star,27490.0,32.0,4.1
+LG,398 L,Double Door,3 Star,27490.0,24.0,4.3
+Voltas,563 L,Side by Side,3 Star,27450.0,42.0,4.4
+LG,240 L,Double Door,3 Star,27348.0,28.0,4.4
+Haier,325 L,Double Door,3 Star,27270.0,31.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,27190.0,26.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,27099.0,25.0,4.3
+LG,343 L,Double Door,3 Star,26999.0,29.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,26999.0,23.0,4.3
+Haier,596 L,Side by Side,3 Star,26999.0,42.0,4.5
+LG,242 L,Double Door,3 Star,26999.0,29.0,4.4
+Haier,602 L,Side by Side,3 Star,28050.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,26990.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,26990.0,25.0,4.1
+Voltas,472 L,Side by Side,3 Star,26990.0,40.0,4.3
+Whirlpool,235 L,Double Door,2 Star,26990.0,29.0,4.3
+LG,272 L,Double Door,3 Star,26990.0,30.0,4.2
+Whirlpool,235 L,Double Door,3 Star,26990.0,26.0,4.1
+Godrej,272 L,Double Door,3 Star,26990.0,21.0,4.2
+CANDY,328 L,Double Door,3 Star,26950.0,28.0,4.3
+LG,264 L,Double Door,2 Star,26900.0,29.0,4.4
+Godrej,472 L,Double Door,2 Star,26900.0,25.0,4.1
+Haier,325 L,Double Door,3 Star,26790.0,31.0,4.3
+Godrej,436 L,Double Door,2 Star,26699.0,37.0,4.1
+Haier,268 L,Double Door,2 Star,26590.0,32.0,4.3
+LG,240 L,Double Door,3 Star,26590.0,28.0,4.4
+LG,398 L,Double Door,3 Star,26517.0,24.0,4.4
+Voltas,563 L,Side by Side,3 Star,26517.0,42.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,26517.0,26.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,26490.0,25.0,4.3
+LG,343 L,Double Door,3 Star,26490.0,29.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,26490.0,23.0,4.3
+LG,242 L,Double Door,3 Star,26299.0,29.0,4.4
+Haier,596 L,Side by Side,3 Star,26290.0,42.0,4.5
+Whirlpool,236 L,Single Door,5 Star,26270.0,24.0,4.3
+Haier,602 L,Side by Side,3 Star,26240.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,26190.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,26190.0,25.0,4.1
+Voltas,472 L,Side by Side,3 Star,26090.0,40.0,4.3
+Whirlpool,235 L,Double Door,2 Star,26090.0,29.0,4.3
+LG,272 L,Double Door,3 Star,26090.0,30.0,4.2
+Whirlpool,235 L,Double Door,3 Star,26050.0,26.0,4.1
+Godrej,272 L,Double Door,3 Star,26000.0,21.0,4.2
+LG,264 L,Double Door,2 Star,25999.0,29.0,4.4
+CANDY,328 L,Double Door,3 Star,25999.0,28.0,4.3
+Godrej,472 L,Double Door,2 Star,25990.0,25.0,4.1
+Godrej,436 L,Double Door,2 Star,25990.0,37.0,4.1
+Haier,268 L,Double Door,2 Star,25990.0,32.0,4.3
+LG,398 L,Double Door,3 Star,25990.0,24.0,4.4
+Voltas,563 L,Side by Side,3 Star,25990.0,42.0,4.3
+LG,240 L,Double Door,3 Star,25990.0,28.0,4.4
+Haier,325 L,Double Door,3 Star,25990.0,31.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,25990.0,26.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,25979.0,25.0,4.3
+Whirlpool,235 L,Triple Door,4 Star,25800.0,23.0,4.3
+Haier,596 L,Side by Side,3 Star,25799.0,29.0,4.5
+Whirlpool,236 L,Single Door,5 Star,25790.0,42.0,4.3
+LG,242 L,Double Door,3 Star,25749.0,24.0,4.4
+Haier,602 L,Side by Side,3 Star,25730.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,25545.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,25490.0,25.0,4.1
+Voltas,472 L,Side by Side,3 Star,25240.0,40.0,4.3
+Whirlpool,235 L,Double Door,2 Star,25190.0,29.0,4.3
+LG,272 L,Double Door,3 Star,24999.0,30.0,4.2
+Whirlpool,235 L,Double Door,3 Star,24999.0,26.0,4.1
+Godrej,272 L,Double Door,3 Star,24994.0,21.0,4.2
+CANDY,328 L,Double Door,3 Star,24994.0,29.0,4.3
+LG,264 L,Double Door,2 Star,24990.0,28.0,4.4
+Godrej,472 L,Double Door,2 Star,24990.0,25.0,4.1
+Haier,325 L,Double Door,3 Star,24990.0,37.0,4.3
+Godrej,436 L,Double Door,2 Star,24990.0,32.0,4.1
+Haier,268 L,Double Door,2 Star,24990.0,24.0,4.3
+LG,240 L,Double Door,3 Star,24990.0,42.0,4.4
+LG,398 L,Double Door,3 Star,24990.0,28.0,4.4
+Voltas,563 L,Side by Side,3 Star,24990.0,31.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,24990.0,26.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,24900.0,25.0,4.3
+LG,343 L,Double Door,3 Star,24900.0,29.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,24900.0,23.0,4.3
+Haier,596 L,Side by Side,3 Star,24890.0,42.0,4.5
+Whirlpool,236 L,Single Door,5 Star,24841.0,24.0,4.3
+LG,242 L,Double Door,3 Star,24790.0,29.0,4.4
+Haier,602 L,Side by Side,3 Star,24790.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,24700.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,24700.0,25.0,4.1
+Voltas,472 L,Side by Side,3 Star,24600.0,40.0,4.3
+Whirlpool,235 L,Double Door,2 Star,24550.0,29.0,4.3
+LG,272 L,Double Door,3 Star,24490.0,30.0,4.2
+Whirlpool,235 L,Double Door,3 Star,24490.0,26.0,4.1
+Godrej,272 L,Double Door,3 Star,24490.0,21.0,4.2
+CANDY,328 L,Double Door,3 Star,24399.0,28.0,4.3
+LG,264 L,Double Door,2 Star,24290.0,29.0,4.4
+Godrej,472 L,Double Door,2 Star,24281.0,25.0,4.1
+Haier,325 L,Double Door,3 Star,24200.0,31.0,4.3
+Godrej,436 L,Double Door,2 Star,24190.0,37.0,4.1
+Haier,268 L,Double Door,2 Star,24000.0,32.0,4.3
+LG,240 L,Double Door,3 Star,24000.0,28.0,4.4
+LG,398 L,Double Door,3 Star,23999.0,24.0,4.4
+Voltas,563 L,Side by Side,3 Star,23999.0,42.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,23999.0,26.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,23999.0,25.0,4.3
+Whirlpool,235 L,Triple Door,4 Star,23999.0,29.0,4.5
+LG,343 L,Double Door,3 Star,23999.0,23.0,4.3
+LG,242 L,Double Door,3 Star,23990.0,42.0,4.5
+Haier,596 L,Side by Side,3 Star,23990.0,24.0,4.3
+Whirlpool,236 L,Single Door,5 Star,23990.0,29.0,4.4
+Haier,602 L,Side by Side,3 Star,23990.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,23990.0,27.0,4.3
+Voltas,472 L,Side by Side,3 Star,23990.0,25.0,4.1
+LG,272 L,Double Door,3 Star,23990.0,40.0,4.3
+Whirlpool,235 L,Double Door,3 Star,23990.0,29.0,4.3
+Whirlpool,308 L,Double Door,3 Star,23990.0,30.0,4.2
+Godrej,272 L,Double Door,3 Star,23990.0,26.0,4.1
+LG,264 L,Double Door,2 Star,23980.0,21.0,4.2
+CANDY,328 L,Double Door,3 Star,23970.0,28.0,4.3
+Whirlpool,235 L,Double Door,2 Star,23959.0,29.0,4.4
+Voltas,563 L,Side by Side,3 Star,23919.0,25.0,4.1
+LG,398 L,Double Door,3 Star,23900.0,31.0,4.3
+Haier,268 L,Double Door,2 Star,23900.0,37.0,4.1
+Godrej,436 L,Double Door,2 Star,23900.0,32.0,4.3
+LG,240 L,Double Door,3 Star,23899.0,28.0,4.4
+Haier,325 L,Double Door,3 Star,23799.0,24.0,4.4
+Whirlpool,300 L,Triple Door,4 Star,23500.0,42.0,4.3
+Godrej,472 L,Double Door,2 Star,23490.0,26.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,23490.0,25.0,4.3
+LG,343 L,Double Door,3 Star,23490.0,29.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,23490.0,23.0,4.3
+LG,242 L,Double Door,3 Star,23490.0,29.0,4.5
+Haier,596 L,Side by Side,3 Star,23490.0,42.0,4.3
+Whirlpool,236 L,Single Door,5 Star,23430.0,24.0,4.4
+Haier,602 L,Side by Side,3 Star,23190.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,23000.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,22999.0,25.0,4.1
+Voltas,472 L,Side by Side,3 Star,22990.0,40.0,4.3
+Whirlpool,235 L,Double Door,2 Star,22990.0,29.0,4.3
+LG,272 L,Double Door,3 Star,22990.0,30.0,4.2
+Whirlpool,235 L,Double Door,3 Star,22990.0,26.0,4.1
+Godrej,272 L,Double Door,3 Star,22990.0,21.0,4.2
+LG,264 L,Double Door,2 Star,22990.0,29.0,4.3
+CANDY,328 L,Double Door,3 Star,22990.0,28.0,4.4
+Godrej,472 L,Double Door,2 Star,22990.0,25.0,4.1
+Godrej,436 L,Double Door,2 Star,22984.0,37.0,4.3
+Haier,268 L,Double Door,2 Star,22950.0,32.0,4.1
+LG,398 L,Double Door,3 Star,22948.0,24.0,4.3
+Voltas,563 L,Side by Side,3 Star,22900.0,42.0,4.4
+LG,240 L,Double Door,3 Star,22889.0,28.0,4.4
+Haier,325 L,Double Door,3 Star,22852.0,31.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,22790.0,26.0,4.3
+LG,343 L,Double Door,3 Star,22590.0,25.0,4.3
+Whirlpool,235 L,Triple Door,4 Star,22570.0,29.0,4.5
+Haier,596 L,Side by Side,3 Star,22500.0,23.0,4.3
+Whirlpool,236 L,Single Door,5 Star,22499.0,42.0,4.4
+LG,242 L,Double Door,3 Star,22490.0,24.0,4.5
+Haier,602 L,Side by Side,3 Star,22390.0,29.0,4.3
+Whirlpool,240 L,Triple Door,4 Star,22300.0,43.0,4.5
+Whirlpool,308 L,Double Door,3 Star,22299.0,27.0,4.3
+Whirlpool,235 L,Double Door,2 Star,22142.0,25.0,4.1
+LG,272 L,Double Door,3 Star,22000.0,40.0,4.3
+Whirlpool,235 L,Double Door,3 Star,21999.0,29.0,4.3
+Godrej,272 L,Double Door,3 Star,21999.0,30.0,4.2
+CANDY,328 L,Double Door,3 Star,21999.0,26.0,4.1
+LG,264 L,Double Door,2 Star,21990.0,21.0,4.2
+Godrej,472 L,Double Door,2 Star,21990.0,28.0,4.4
+Haier,325 L,Double Door,3 Star,21990.0,29.0,4.3
+Godrej,436 L,Double Door,2 Star,21990.0,25.0,4.1
+Haier,268 L,Double Door,2 Star,21990.0,31.0,4.1
+LG,240 L,Double Door,3 Star,21990.0,37.0,4.3
+LG,398 L,Double Door,3 Star,21990.0,32.0,4.4
+Whirlpool,300 L,Triple Door,4 Star,21990.0,28.0,4.3
+Haier,596 L,Side by Side,3 Star,21915.0,24.0,4.4
+Whirlpool,274 L,Single Door,3 Star,21990.0,42.0,4.3
+LG,246 L,Double Door,3 Star,21990.0,26.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,21915.0,25.0,4.3
+LG,343 L,Double Door,3 Star,21790.0,23.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,22490.0,29.0,4.3
+Haier,596 L,Side by Side,3 Star,21704.0,42.0,4.5
+Whirlpool,236 L,Single Door,5 Star,21490.0,24.0,4.3
+LG,242 L,Double Door,3 Star,21490.0,27.0,4.4
+Haier,602 L,Side by Side,3 Star,21300.0,40.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,21300.0,30.0,4.3
+Whirlpool,308 L,Double Door,3 Star,21300.0,26.0,4.1
+Voltas,472 L,Side by Side,3 Star,21299.0,25.0,4.3
+Whirlpool,235 L,Double Door,2 Star,21290.0,21.0,4.3
+LG,272 L,Double Door,3 Star,21050.0,29.0,4.2
+Whirlpool,235 L,Double Door,3 Star,20999.0,29.0,4.1
+Godrej,272 L,Double Door,3 Star,20990.0,42.0,4.2
+CANDY,328 L,Double Door,3 Star,20990.0,32.0,4.3
+LG,264 L,Double Door,2 Star,20990.0,37.0,4.4
+Godrej,472 L,Double Door,2 Star,20990.0,28.0,4.1
+Haier,325 L,Double Door,3 Star,20990.0,31.0,4.3
+Godrej,436 L,Double Door,2 Star,20890.0,26.0,4.1
+Haier,268 L,Double Door,2 Star,20759.0,25.0,4.3
+LG,240 L,Double Door,3 Star,20699.0,41.0,4.4
+LG,398 L,Double Door,3 Star,20699.0,26.0,4.4
+Voltas,563 L,Side by Side,3 Star,20690.0,31.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,20490.0,35.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,20390.0,25.0,4.3
+LG,343 L,Double Door,3 Star,20231.0,29.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,20190.0,23.0,4.3
+LG,242 L,Double Door,3 Star,20107.0,42.0,4.5
+Haier,596 L,Side by Side,3 Star,20010.0,24.0,4.3
+Whirlpool,236 L,Single Door,5 Star,20000.0,29.0,4.4
+Haier,602 L,Side by Side,3 Star,20000.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,19999.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,19999.0,25.0,4.1
+Voltas,472 L,Side by Side,3 Star,19990.0,40.0,4.3
+Whirlpool,235 L,Double Door,2 Star,19990.0,29.0,4.3
+LG,272 L,Double Door,3 Star,19990.0,30.0,4.2
+Whirlpool,235 L,Double Door,3 Star,19990.0,26.0,4.1
+Godrej,272 L,Double Door,3 Star,19990.0,21.0,4.2
+LG,264 L,Double Door,2 Star,19989.0,28.0,4.3
+CANDY,328 L,Double Door,3 Star,19923.0,29.0,4.4
+Godrej,472 L,Double Door,2 Star,19890.0,25.0,4.1
+Godrej,436 L,Double Door,2 Star,19890.0,31.0,4.3
+Haier,268 L,Double Door,2 Star,19799.0,37.0,4.1
+LG,398 L,Double Door,3 Star,19790.0,32.0,4.3
+Voltas,563 L,Side by Side,3 Star,19790.0,28.0,4.4
+LG,240 L,Double Door,3 Star,19700.0,24.0,4.4
+Haier,325 L,Double Door,3 Star,19690.0,42.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,19682.0,26.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,19621.0,25.0,4.3
+LG,343 L,Double Door,3 Star,19505.0,29.0,4.3
+Whirlpool,235 L,Triple Door,4 Star,19494.0,23.0,4.5
+LG,242 L,Double Door,3 Star,19494.0,42.0,4.4
+Haier,596 L,Side by Side,3 Star,19490.0,24.0,4.5
+Whirlpool,236 L,Single Door,5 Star,19490.0,29.0,4.3
+Haier,602 L,Side by Side,3 Star,19490.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,19490.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,19490.0,25.0,4.3
+Voltas,472 L,Side by Side,3 Star,19490.0,40.0,4.2
+Whirlpool,235 L,Double Door,2 Star,19400.0,29.0,4.1
+LG,272 L,Double Door,3 Star,19380.0,30.0,4.1
+Whirlpool,235 L,Double Door,3 Star,19375.0,26.0,4.2
+Godrej,272 L,Double Door,3 Star,19370.0,21.0,4.4
+LG,264 L,Double Door,2 Star,19301.0,28.0,4.3
+CANDY,328 L,Double Door,3 Star,19190.0,29.0,4.3
+Godrej,472 L,Double Door,2 Star,19110.0,25.0,4.3
+Godrej,436 L,Double Door,2 Star,18999.0,31.0,4.4
+Haier,268 L,Double Door,2 Star,18990.0,37.0,4.3
+LG,398 L,Double Door,3 Star,18990.0,32.0,4.1
+Voltas,563 L,Side by Side,3 Star,18990.0,28.0,4.4
+LG,240 L,Double Door,3 Star,18990.0,24.0,4.3
+Haier,325 L,Double Door,3 Star,18990.0,42.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,18990.0,26.0,4.1
+Whirlpool,270 L,Triple Door,4 Star,18990.0,25.0,4.3
+LG,343 L,Double Door,3 Star,18972.0,23.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,18900.0,29.0,4.3
+Haier,596 L,Side by Side,3 Star,18900.0,29.0,4.5
+Whirlpool,236 L,Single Door,5 Star,18900.0,42.0,4.3
+LG,242 L,Double Door,3 Star,18899.0,24.0,4.4
+Haier,602 L,Side by Side,3 Star,18840.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,18800.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,18790.0,40.0,4.1
+Voltas,472 L,Side by Side,3 Star,18790.0,30.0,4.3
+Whirlpool,235 L,Double Door,2 Star,18790.0,26.0,4.3
+LG,272 L,Double Door,3 Star,18770.0,25.0,4.2
+Whirlpool,235 L,Double Door,3 Star,18750.0,21.0,4.1
+Godrej,272 L,Double Door,3 Star,18699.0,29.0,4.2
+CANDY,328 L,Double Door,3 Star,18690.0,28.0,4.3
+LG,264 L,Double Door,2 Star,18690.0,29.0,4.4
+Godrej,472 L,Double Door,2 Star,18629.0,42.0,4.1
+Haier,325 L,Double Door,3 Star,18600.0,24.0,4.3
+Godrej,436 L,Double Door,2 Star,18594.0,32.0,4.1
+Haier,268 L,Double Door,2 Star,18594.0,37.0,4.3
+LG,240 L,Double Door,3 Star,18590.0,28.0,4.4
+LG,398 L,Double Door,3 Star,18590.0,31.0,4.4
+Voltas,563 L,Side by Side,3 Star,18589.0,26.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,18524.0,25.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,18500.0,25.0,4.3
+LG,343 L,Double Door,3 Star,18490.0,29.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,18490.0,23.0,4.3
+LG,242 L,Double Door,3 Star,18490.0,42.0,4.5
+Haier,596 L,Side by Side,3 Star,18490.0,24.0,4.3
+Whirlpool,236 L,Single Door,5 Star,18490.0,29.0,4.4
+Haier,602 L,Side by Side,3 Star,18490.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,18490.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,18490.0,25.0,4.1
+Voltas,472 L,Side by Side,3 Star,18490.0,40.0,4.3
+Whirlpool,235 L,Double Door,2 Star,18490.0,29.0,4.3
+LG,272 L,Double Door,3 Star,18450.0,30.0,4.2
+Whirlpool,235 L,Double Door,3 Star,18450.0,26.0,4.1
+Godrej,272 L,Double Door,3 Star,18439.0,21.0,4.2
+LG,264 L,Double Door,2 Star,18410.0,28.0,4.3
+CANDY,328 L,Double Door,3 Star,18390.0,29.0,4.4
+Godrej,472 L,Double Door,2 Star,18299.0,25.0,4.1
+Godrej,436 L,Double Door,2 Star,18299.0,31.0,4.3
+Haier,268 L,Double Door,2 Star,17989.0,37.0,4.1
+LG,398 L,Double Door,3 Star,17999.0,32.0,4.3
+Voltas,563 L,Side by Side,3 Star,17990.0,28.0,4.4
+LG,240 L,Double Door,3 Star,17990.0,24.0,4.4
+Haier,325 L,Double Door,3 Star,17990.0,42.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,17990.0,26.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,17990.0,25.0,4.3
+LG,343 L,Double Door,3 Star,17990.0,29.0,4.3
+Whirlpool,235 L,Triple Door,4 Star,17990.0,23.0,4.5
+Haier,596 L,Side by Side,3 Star,17990.0,42.0,4.4
+Whirlpool,236 L,Single Door,5 Star,17990.0,24.0,4.5
+LG,242 L,Double Door,3 Star,17990.0,29.0,4.3
+Haier,602 L,Side by Side,3 Star,17990.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,17990.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,17990.0,25.0,4.3
+Voltas,472 L,Side by Side,3 Star,17990.0,40.0,4.2
+Whirlpool,235 L,Double Door,2 Star,17989.0,29.0,4.1
+LG,272 L,Double Door,3 Star,17980.0,30.0,4.1
+Whirlpool,235 L,Double Door,3 Star,17950.0,26.0,4.2
+Godrej,272 L,Double Door,3 Star,17900.0,21.0,4.4
+CANDY,328 L,Double Door,3 Star,17899.0,28.0,4.3
+LG,264 L,Double Door,2 Star,17885.0,29.0,4.3
+Godrej,472 L,Double Door,2 Star,17790.0,25.0,4.3
+Haier,325 L,Double Door,3 Star,17790.0,31.0,4.4
+Godrej,436 L,Double Door,2 Star,17740.0,37.0,4.3
+Haier,268 L,Double Door,2 Star,17700.0,32.0,4.1
+LG,240 L,Double Door,3 Star,17690.0,28.0,4.4
+LG,398 L,Double Door,3 Star,17690.0,24.0,4.3
+Voltas,563 L,Side by Side,3 Star,17690.0,42.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,17690.0,26.0,4.1
+Whirlpool,270 L,Triple Door,4 Star,17690.0,25.0,4.5
+LG,343 L,Double Door,3 Star,17650.0,29.0,4.4
+Whirlpool,235 L,Triple Door,4 Star,17650.0,23.0,4.3
+Haier,596 L,Side by Side,3 Star,17589.0,42.0,4.3
+Whirlpool,236 L,Single Door,5 Star,17559.0,24.0,4.5
+LG,242 L,Double Door,3 Star,17559.0,29.0,4.3
+Haier,602 L,Side by Side,3 Star,17555.0,43.0,4.4
+Whirlpool,240 L,Triple Door,4 Star,17539.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,17528.0,25.0,4.5
+Voltas,472 L,Side by Side,3 Star,17510.0,40.0,4.3
+Whirlpool,235 L,Double Door,2 Star,17500.0,29.0,4.3
+LG,272 L,Double Door,3 Star,17499.0,30.0,4.3
+Whirlpool,235 L,Double Door,3 Star,17490.0,26.0,4.2
+Godrej,272 L,Double Door,3 Star,17490.0,21.0,4.3
+CANDY,328 L,Double Door,3 Star,17490.0,28.0,4.2
+LG,264 L,Double Door,2 Star,17490.0,29.0,4.4
+Godrej,472 L,Double Door,2 Star,17490.0,25.0,4.3
+Haier,325 L,Double Door,3 Star,17490.0,31.0,4.1
+Godrej,436 L,Double Door,2 Star,17490.0,37.0,4.3
+Haier,268 L,Double Door,2 Star,17490.0,32.0,4.4
+LG,240 L,Double Door,3 Star,17490.0,28.0,4.3
+LG,398 L,Double Door,3 Star,17490.0,24.0,4.4
+Voltas,563 L,Side by Side,3 Star,17490.0,42.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,17450.0,26.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,17399.0,25.0,4.5
+LG,343 L,Double Door,3 Star,17250.0,29.0,4.4
+Whirlpool,235 L,Triple Door,4 Star,17250.0,23.0,4.3
+Haier,596 L,Side by Side,3 Star,17200.0,29.0,4.3
+Whirlpool,236 L,Single Door,5 Star,17190.0,42.0,4.5
+LG,242 L,Double Door,3 Star,17190.0,24.0,4.3
+Haier,602 L,Side by Side,3 Star,17190.0,43.0,4.3
+Whirlpool,240 L,Triple Door,4 Star,17150.0,27.0,4.4
+Whirlpool,308 L,Double Door,3 Star,17100.0,25.0,4.5
+Voltas,472 L,Side by Side,3 Star,17090.0,40.0,4.3
+Whirlpool,235 L,Double Door,2 Star,17050.0,29.0,4.3
+LG,272 L,Double Door,3 Star,17020.0,30.0,4.3
+Whirlpool,235 L,Double Door,3 Star,17000.0,26.0,4.2
+Godrej,272 L,Double Door,3 Star,16999.0,21.0,4.2
+CANDY,328 L,Double Door,3 Star,16999.0,29.0,4.3
+LG,264 L,Double Door,2 Star,16999.0,28.0,4.3
+Godrej,472 L,Double Door,2 Star,16999.0,25.0,4.4
+Haier,325 L,Double Door,3 Star,16990.0,37.0,4.3
+Godrej,436 L,Double Door,2 Star,16990.0,32.0,4.1
+Haier,268 L,Double Door,2 Star,16990.0,24.0,4.3
+LG,240 L,Double Door,3 Star,16990.0,42.0,4.4
+LG,398 L,Double Door,3 Star,16990.0,28.0,4.4
+Voltas,563 L,Side by Side,3 Star,16990.0,31.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,16990.0,26.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,16990.0,25.0,4.3
+LG,343 L,Double Door,3 Star,16990.0,23.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,16990.0,29.0,4.3
+Haier,596 L,Side by Side,3 Star,16990.0,29.0,4.5
+Whirlpool,236 L,Single Door,5 Star,16990.0,42.0,4.3
+LG,242 L,Double Door,3 Star,16990.0,24.0,4.4
+Haier,602 L,Side by Side,3 Star,16980.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,16980.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,16971.0,40.0,4.1
+Voltas,472 L,Side by Side,3 Star,16960.0,30.0,4.3
+Whirlpool,235 L,Double Door,2 Star,16950.0,26.0,4.3
+LG,272 L,Double Door,3 Star,16900.0,25.0,4.2
+Whirlpool,235 L,Double Door,3 Star,16899.0,21.0,4.1
+Godrej,272 L,Double Door,3 Star,16895.0,29.0,4.2
+CANDY,328 L,Double Door,3 Star,16888.0,28.0,4.3
+LG,264 L,Double Door,2 Star,16790.0,29.0,4.4
+Godrej,472 L,Double Door,2 Star,16790.0,42.0,4.1
+Haier,325 L,Double Door,3 Star,16790.0,24.0,4.3
+Haier,268 L,Double Door,2 Star,16990.0,37.0,4.3
+LG,240 L,Double Door,3 Star,16980.0,28.0,4.4
+LG,398 L,Double Door,3 Star,16980.0,31.0,4.4
+Voltas,563 L,Side by Side,3 Star,16971.0,26.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,16960.0,25.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,16950.0,25.0,4.3
+LG,343 L,Double Door,3 Star,16900.0,29.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,16900.0,23.0,4.4
+LG,242 L,Double Door,3 Star,16899.0,42.0,4.5
+Haier,596 L,Side by Side,3 Star,16895.0,24.0,4.3
+Whirlpool,236 L,Single Door,5 Star,16888.0,29.0,4.5
+Haier,602 L,Side by Side,3 Star,16790.0,43.0,4.3
+Whirlpool,240 L,Triple Door,4 Star,16790.0,27.0,4.2
+Whirlpool,308 L,Double Door,3 Star,16790.0,25.0,4.1
+Voltas,472 L,Side by Side,3 Star,16790.0,40.0,4.1
+Whirlpool,235 L,Double Door,2 Star,16709.0,29.0,4.2
+LG,272 L,Double Door,3 Star,16699.0,30.0,4.4
+Whirlpool,235 L,Double Door,3 Star,16690.0,26.0,4.3
+Godrej,272 L,Double Door,3 Star,16599.0,21.0,4.3
+LG,264 L,Double Door,2 Star,16590.0,28.0,4.4
+CANDY,328 L,Double Door,3 Star,16361.0,29.0,4.3
+Godrej,472 L,Double Door,2 Star,16306.0,25.0,4.1
+Godrej,436 L,Double Door,2 Star,16300.0,31.0,4.4
+Haier,268 L,Double Door,2 Star,16294.0,37.0,4.3
+LG,398 L,Double Door,3 Star,16290.0,32.0,4.1
+Voltas,563 L,Side by Side,3 Star,16290.0,28.0,4.3
+LG,240 L,Double Door,3 Star,16290.0,24.0,4.5
+Haier,325 L,Double Door,3 Star,16285.0,42.0,4.0
+Whirlpool,300 L,Triple Door,4 Star,16269.0,26.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,16250.0,25.0,4.3
+LG,343 L,Double Door,3 Star,16205.0,29.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,16200.0,23.0,4.3
+Haier,596 L,Side by Side,3 Star,16200.0,42.0,4.4
+Whirlpool,236 L,Single Door,5 Star,16190.0,24.0,4.5
+LG,242 L,Double Door,3 Star,16190.0,29.0,4.3
+Haier,602 L,Side by Side,3 Star,16100.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,16080.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,16014.0,25.0,4.1
+Voltas,472 L,Side by Side,3 Star,16014.0,40.0,4.3
+Whirlpool,235 L,Double Door,2 Star,15999.0,29.0,4.3
+LG,272 L,Double Door,3 Star,15990.0,30.0,4.2
+Whirlpool,235 L,Double Door,3 Star,15990.0,26.0,4.1
+Godrej,272 L,Double Door,3 Star,15990.0,21.0,4.2
+CANDY,328 L,Double Door,3 Star,15990.0,28.0,4.4
+LG,264 L,Double Door,2 Star,15990.0,29.0,4.3
+Godrej,472 L,Double Door,2 Star,15990.0,25.0,4.1
+Haier,325 L,Double Door,3 Star,15990.0,31.0,4.1
+Godrej,436 L,Double Door,2 Star,15990.0,37.0,4.3
+Haier,268 L,Double Door,2 Star,15990.0,32.0,4.4
+LG,240 L,Double Door,3 Star,15990.0,28.0,4.3
+LG,398 L,Double Door,3 Star,15990.0,24.0,4.4
+Voltas,563 L,Side by Side,3 Star,15990.0,42.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,15990.0,26.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,15990.0,25.0,4.3
+LG,343 L,Double Door,3 Star,15990.0,23.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,15990.0,29.0,4.3
+LG,242 L,Double Door,3 Star,15990.0,29.0,4.5
+Haier,596 L,Side by Side,3 Star,15990.0,42.0,4.3
+Whirlpool,236 L,Single Door,5 Star,15990.0,24.0,4.4
+Haier,602 L,Side by Side,3 Star,15990.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,15990.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,15990.0,40.0,4.1
+Voltas,472 L,Side by Side,3 Star,15950.0,30.0,4.3
+Whirlpool,235 L,Double Door,2 Star,15950.0,26.0,4.3
+LG,272 L,Double Door,3 Star,15900.0,25.0,4.2
+Whirlpool,235 L,Double Door,3 Star,15900.0,21.0,4.1
+Godrej,272 L,Double Door,3 Star,15900.0,29.0,4.2
+LG,264 L,Double Door,2 Star,15900.0,28.0,4.3
+CANDY,328 L,Double Door,3 Star,15899.0,29.0,4.4
+Godrej,472 L,Double Door,2 Star,15890.0,42.0,4.1
+Godrej,436 L,Double Door,2 Star,15890.0,24.0,4.3
+Haier,268 L,Double Door,2 Star,15890.0,32.0,4.1
+LG,398 L,Double Door,3 Star,15890.0,37.0,4.3
+Voltas,563 L,Side by Side,3 Star,15890.0,28.0,4.4
+LG,240 L,Double Door,3 Star,15890.0,31.0,4.4
+Haier,325 L,Double Door,3 Star,15890.0,26.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,15790.0,25.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,15790.0,25.0,4.3
+LG,343 L,Double Door,3 Star,15790.0,23.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,15790.0,29.0,4.3
+LG,242 L,Double Door,3 Star,15790.0,29.0,4.5
+Haier,596 L,Side by Side,3 Star,15790.0,42.0,4.3
+Whirlpool,236 L,Single Door,5 Star,15790.0,24.0,4.4
+Haier,602 L,Side by Side,3 Star,15790.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,15790.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,15754.0,40.0,4.1
+Voltas,472 L,Side by Side,3 Star,15750.0,30.0,4.3
+Whirlpool,235 L,Double Door,2 Star,15690.0,26.0,4.3
+LG,272 L,Double Door,3 Star,15639.0,25.0,4.2
+Whirlpool,235 L,Double Door,3 Star,15639.0,21.0,4.1
+Godrej,272 L,Double Door,3 Star,15599.0,29.0,4.2
+LG,264 L,Double Door,2 Star,15599.0,28.0,4.3
+CANDY,328 L,Double Door,3 Star,15594.0,29.0,4.4
+Godrej,472 L,Double Door,2 Star,15590.0,42.0,4.1
+Godrej,436 L,Double Door,2 Star,15590.0,24.0,4.3
+Haier,268 L,Double Door,2 Star,15590.0,32.0,4.1
+LG,398 L,Double Door,3 Star,15499.0,37.0,4.3
+Voltas,563 L,Side by Side,3 Star,15499.0,28.0,4.4
+LG,240 L,Double Door,3 Star,15490.0,31.0,4.4
+Haier,325 L,Double Door,3 Star,15490.0,26.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,15490.0,25.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,15490.0,25.0,4.3
+LG,343 L,Double Door,3 Star,15440.0,23.0,4.5
+Whirlpool,235 L,Triple Door,4 Star,15430.0,29.0,4.3
+Haier,596 L,Side by Side,3 Star,15410.0,29.0,4.5
+Whirlpool,236 L,Single Door,5 Star,15405.0,42.0,4.3
+LG,242 L,Double Door,3 Star,15399.0,24.0,4.4
+Haier,602 L,Side by Side,3 Star,15349.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,15300.0,27.0,4.3
+Whirlpool,308 L,Double Door,3 Star,15300.0,40.0,4.1
+Voltas,472 L,Side by Side,3 Star,15299.0,30.0,4.3
+Whirlpool,235 L,Double Door,2 Star,15290.0,26.0,4.3
+LG,272 L,Double Door,3 Star,15290.0,25.0,4.2
+Whirlpool,235 L,Double Door,3 Star,15290.0,21.0,4.1
+Godrej,272 L,Double Door,3 Star,15290.0,29.0,4.2
+CANDY,328 L,Double Door,3 Star,15240.0,28.0,4.3
+LG,264 L,Double Door,2 Star,15100.0,29.0,4.4
+Godrej,472 L,Double Door,2 Star,15060.0,42.0,4.1
+Haier,325 L,Double Door,3 Star,15000.0,24.0,4.3
+Godrej,436 L,Double Door,2 Star,14999.0,32.0,4.1
+Haier,268 L,Double Door,2 Star,14990.0,37.0,4.3
+LG,240 L,Double Door,3 Star,14990.0,28.0,4.4
+LG,398 L,Double Door,3 Star,14990.0,31.0,4.4
+Voltas,563 L,Side by Side,3 Star,14990.0,26.0,4.3
+Whirlpool,300 L,Triple Door,4 Star,14990.0,25.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,14990.0,25.0,4.3
+Whirlpool,235 L,Triple Door,4 Star,14990.0,23.0,4.5
+LG,343 L,Double Door,3 Star,14990.0,29.0,4.3
+LG,242 L,Double Door,3 Star,14990.0,29.0,4.4
+Haier,596 L,Side by Side,3 Star,14985.0,42.0,4.5
+Whirlpool,236 L,Single Door,5 Star,14980.0,24.0,4.3
+Haier,602 L,Side by Side,3 Star,14970.0,43.0,4.5
+Whirlpool,240 L,Triple Door,4 Star,14959.0,27.0,4.3
+Voltas,472 L,Side by Side,3 Star,14900.0,40.0,4.1
+LG,272 L,Double Door,3 Star,14900.0,30.0,4.3
+Whirlpool,235 L,Double Door,3 Star,14895.0,26.0,4.3
+Whirlpool,308 L,Double Door,3 Star,14890.0,25.0,4.2
+Godrej,272 L,Double Door,3 Star,14820.0,21.0,4.1
+LG,264 L,Double Door,2 Star,14769.0,29.0,4.2
+CANDY,328 L,Double Door,3 Star,14763.0,28.0,4.4
+Whirlpool,235 L,Double Door,2 Star,14699.0,29.0,4.3
+Voltas,563 L,Side by Side,3 Star,14490.0,42.0,4.1
+LG,398 L,Double Door,3 Star,14579.0,24.0,4.1
+Haier,268 L,Double Door,2 Star,14490.0,32.0,4.3
+Godrej,436 L,Double Door,2 Star,14490.0,37.0,4.4
+LG,240 L,Double Door,3 Star,14490.0,28.0,4.3
+Haier,325 L,Double Door,3 Star,14490.0,31.0,4.4
+Whirlpool,300 L,Triple Door,4 Star,14490.0,26.0,4.3
+Godrej,472 L,Double Door,2 Star,14490.0,25.0,4.3
+Whirlpool,270 L,Triple Door,4 Star,14490.0,25.0,4.3
+LG,343 L,Double Door,3 Star,14490.0,23.0,4.3
+Whirlpool,235 L,Triple Door,4 Star,14490.0,29.0,4.5
+Haier,596 L,Side by Side,3 Star,14490.0,29.0,4.3
+Whirlpool,236 L,Single Door,5 Star,14465.0,42.0,4.5
+LG,242 L,Double Door,3 Star,14390.0,24.0,4.5
+Haier,602 L,Side by Side,3 Star,14350.0,43.0,4.3
+Whirlpool,240 L,Triple Door,4 Star,14350.0,27.0,4.4
+Whirlpool,308 L,Double Door,3 Star,14340.0,40.0,4.3
+Voltas,472 L,Side by Side,3 Star,14299.0,30.0,4.5
+Whirlpool,235 L,Double Door,2 Star,14299.0,26.0,4.3
+LG,272 L,Double Door,3 Star,14290.0,25.0,4.1
+Whirlpool,235 L,Double Door,3 Star,14290.0,21.0,4.3
+Godrej,272 L,Double Door,3 Star,14290.0,29.0,4.3
+CANDY,328 L,Double Door,3 Star,14240.0,28.0,4.3
